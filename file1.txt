@@ -1,7 +1,5 @@
 commit from master branch 
-<<<<<<< HEAD
- Fixes from merge branch 
-=======
 
+ Fixes from merge branch 
 another commit
->>>>>>> dev-one
+
