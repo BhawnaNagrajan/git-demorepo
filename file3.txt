@@ -1,1 +1,3 @@
 file for dev 02
+
+after repo pink mode
